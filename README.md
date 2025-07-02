@@ -109,6 +109,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyawithyadav&layout=compact&theme=default&langs_count=10&hide_border=false&title_color=0e75b6&text_color=333333&icon_color=0e75b6" width="400" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanyawithyadav&show_icons=true&locale=en" height="180px" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyawithyadav&layout=compact&langs_count=8&theme=default" height="180px" alt="Top Languages" />
+</div>

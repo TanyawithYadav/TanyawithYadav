@@ -110,7 +110,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanyawithyadav&show_icons=true&locale=en" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanyawithyadav&show_icons=true&count_private=true&cache_seconds=1800" height="180px" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyawithyadav&layout=compact&langs_count=8&theme=default" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyawithyadav&layout=compact&langs_count=8&theme=default&cache_seconds=1800" height="180px" alt="Top Languages" />
 </div>
